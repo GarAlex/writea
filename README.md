@@ -26,6 +26,12 @@ No subscription. Documents are files on your machine — no account, no cloud lo
 - **Import** — Word, PDF, RTF, images (SVG on Mac); OCR text out of a screenshot
 - **Native + fast** — GPU canvas, Rust core shared across platforms
 
+## Directory / PAD
+
+Software directories can ingest this PAD 4.0 file:
+
+`https://raw.githubusercontent.com/GarAlex/writea/main/writea.pad.xml`
+
 ## Not Write.as
 
 WriteA is a desktop design + layout + writing app by [Alexander Garmash](https://writea.com). It is unrelated to the Write.as blogging platform.
