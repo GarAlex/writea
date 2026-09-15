@@ -1,75 +1,77 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <XML_DIZ_INFO>
-  <MASTER_PAD_VERSION_INFO>
-    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
-    <MASTER_PAD_EDITOR>Grok Bot marketing draft 2026-09-14</MASTER_PAD_EDITOR>
-  </MASTER_PAD_VERSION_INFO>
-  <Company_Info>
-    <Company_Name>Alexander Garmash / WriteA</Company_Name>
-    <Address_1></Address_1>
-    <City_Town></City_Town>
-    <State_Province></State_Province>
-    <Zip_Postal_Code></Zip_Postal_Code>
-    <Country>United States</Country>
-    <Company_WebSite_URL>https://writea.com</Company_WebSite_URL>
-    <Contact_Info>
-      <Author_First_Name>Alexander</Author_First_Name>
-      <Author_Last_Name>Garmash</Author_Last_Name>
-      <Author_Email>garalex@gmail.com</Author_Email>
-      <Contact_First_Name>Alexander</Contact_First_Name>
-      <Contact_Last_Name>Garmash</Contact_Last_Name>
-      <Contact_Email>garalex@gmail.com</Contact_Email>
-    </Contact_Info>
-    <Support_Info>
-      <Sales_Email>garalex@gmail.com</Sales_Email>
-      <Support_Email>garalex@gmail.com</Support_Email>
-      <General_Email>garalex@gmail.com</General_Email>
-      <Support_WebSite_URL>https://writea.com</Support_WebSite_URL>
-    </Support_Info>
-  </Company_Info>
-  <Program_Info>
-    <Program_Name>WriteA</Program_Name>
-    <Program_Version>1.5</Program_Version>
-    <Program_Release_Month>08</Program_Release_Month>
-    <Program_Release_Day>16</Program_Release_Day>
-    <Program_Release_Year>2026</Program_Release_Year>
-    <Program_Cost_Dollars>0</Program_Cost_Dollars>
-    <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>Major Update</Program_Release_Status>
-    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Windows 10, Windows 11, macOS, Linux</Program_OS_Support>
-    <Program_Language>English</Program_Language>
-    <Program_Category_Class>Graphic Apps::Editors</Program_Category_Class>
-    <File_Info>
-      <File_Size_Bytes>0</File_Size_Bytes>
-      <File_Size_K>0</File_Size_K>
-      <File_Size_MB>0</File_Size_MB>
-    </File_Info>
-    <Expire_Info>
-      <Has_Expire_Info>N</Has_Expire_Info>
-    </Expire_Info>
-    <Program_System_Requirements>Mac App Store, Microsoft Store, or Linux build from writea.com; see store listing for OS versions.</Program_System_Requirements>
-    <Program_Description_2000>WriteA is a native desktop app that puts vector illustration, page layout, and a real word processor on one canvas. Draw artwork, place it on the page, and pour in text that flows and paginates across pages — without juggling three apps or three subscriptions. Built for flyers, zines, reports, comics, manuals, posters, newsletters, and books. Free editor on Mac and Windows (saving included); a one-time purchase adds PDF, Word, EPUB, SVG, Markdown, and plain text export plus printing. Linux is free. No account, no cloud lock-in. Mac App Store id 980892066. Microsoft Store 9P18DGSDVQCR. Site: https://writea.com</Program_Description_2000>
-    <Program_Description_250>Native vector, layout, and writing app for Mac, Windows, and Linux. Free editor; one-time unlock for export and print. No subscription. writea.com</Program_Description_250>
-    <Program_Description_450>WriteA combines vector illustration, page layout, and a real word processor on one native canvas. Free editor on Mac/Windows; one-time unlock for export and print. Linux free. No account, no subscription. https://writea.com</Program_Description_450>
-    <Program_Description_80>Vector + layout + writing in one native app</Program_Description_80>
-  </Program_Info>
-  <Web_Info>
-    <Application_URLs>
-      <Application_Info_URL>https://writea.com</Application_Info_URL>
-      <Application_Order_URL>https://apps.apple.com/app/id980892066</Application_Order_URL>
-      <Application_Screenshot_URL>https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/74/ec/5474ec94-337f-2be5-d9a7-b1526c8fe0cd/01-write.png/800x500bb.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/5f/3f/b65f3fd3-0759-cb7c-e491-b609ab41a5c5/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://raw.githubusercontent.com/GarAlex/writea/main/writea.pad.xml</Application_XML_File_URL>
-    </Application_URLs>
-    <Download_URLs>
-      <Primary_Download_URL>https://apps.microsoft.com/detail/9p18dgsdvqcr</Primary_Download_URL>
-      <Secondary_Download_URL>https://apps.apple.com/app/id980892066</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://writea.com</Additional_Download_URL_1>
-    </Download_URLs>
-  </Web_Info>
-  <Permissions>
-    <Distribution_Permissions>The distribution permissions for this PAD file are granted to Softpedia and other software directories for listing WriteA with store download links.</Distribution_Permissions>
-    <EULA>See App Store / Microsoft Store listing terms. Product site: https://writea.com</EULA>
-  </Permissions>
+ <MASTER_PAD_VERSION_INFO>
+ <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+ <MASTER_PAD_EDITOR>Grok Bot marketing draft 2026-09-15</MASTER_PAD_EDITOR>
+ </MASTER_PAD_VERSION_INFO>
+ <Company_Info>
+ <Company_Name>Alexander Garmash / WriteA</Company_Name>
+ <Address_1></Address_1>
+ <City_Town></City_Town>
+ <State_Province></State_Province>
+ <Zip_Postal_Code></Zip_Postal_Code>
+ <Country>United States</Country>
+ <Company_WebSite_URL>https://writea.com</Company_WebSite_URL>
+ <Contact_Info>
+ <Author_First_Name>Alexander</Author_First_Name>
+ <Author_Last_Name>Garmash</Author_Last_Name>
+ <Author_Email>garalex@gmail.com</Author_Email>
+ <Contact_First_Name>Alexander</Contact_First_Name>
+ <Contact_Last_Name>Garmash</Contact_Last_Name>
+ <Contact_Email>garalex@gmail.com</Contact_Email>
+ </Contact_Info>
+ <Support_Info>
+ <Sales_Email>garalex@gmail.com</Sales_Email>
+ <Support_Email>garalex@gmail.com</Support_Email>
+ <General_Email>garalex@gmail.com</General_Email>
+ <Support_WebSite_URL>https://writea.com</Support_WebSite_URL>
+ </Support_Info>
+ </Company_Info>
+ <Program_Info>
+ <Program_Name>WriteA</Program_Name>
+ <Program_Version>1.5</Program_Version>
+ <Program_Release_Month>08</Program_Release_Month>
+ <Program_Release_Day>16</Program_Release_Day>
+ <Program_Release_Year>2026</Program_Release_Year>
+ <Program_Cost_Dollars>0</Program_Cost_Dollars>
+ <Program_Type>Freeware</Program_Type>
+ <Program_Release_Status>Major Update</Program_Release_Status>
+ <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+ <Program_OS_Support>Windows 10, Windows 11, macOS, Linux</Program_OS_Support>
+ <Program_Language>English</Program_Language>
+ <Program_Category_Class>Graphic Apps::Editors</Program_Category_Class>
+ <File_Info>
+ <File_Size_Bytes>15710712</File_Size_Bytes>
+ <File_Size_K>15342</File_Size_K>
+ <File_Size_MB>15</File_Size_MB>
+ </File_Info>
+ <Expire_Info>
+ <Has_Expire_Info>N</Has_Expire_Info>
+ </Expire_Info>
+ <Program_System_Requirements>Mac App Store, Microsoft Store, or free Linux AppImage from writea.com/writea/download. Linux: x86_64 or aarch64.</Program_System_Requirements>
+ <Program_Description_2000>WriteA is a native desktop app that puts vector illustration, page layout, and a real word processor on one canvas. Draw artwork, place it on the page, and pour in text that flows and paginates across pages — without juggling three apps or three subscriptions. Built for flyers, zines, reports, comics, manuals, posters, newsletters, and books. Free editor on Mac and Windows (saving included); a one-time purchase adds PDF, Word, EPUB, SVG, Markdown, and plain text export plus printing. Linux is free via AppImage (x86_64 and aarch64) or tar.gz at https://writea.com/writea/download — the AppImage file is still named WriTea-*.AppImage (legacy filename); the app itself is WriteA. No account, no cloud lock-in. Mac App Store id 980892066. Microsoft Store 9P18DGSDVQCR. Site: https://writea.com. Unrelated to the Write.as blogging platform.</Program_Description_2000>
+ <Program_Description_250>Native vector, layout, and writing app for Mac, Windows, and Linux. Free editor; one-time unlock for export and print. Free Linux AppImage. No subscription. writea.com</Program_Description_250>
+ <Program_Description_450>WriteA combines vector illustration, page layout, and a real word processor on one native canvas. Free editor on Mac/Windows; one-time unlock for export and print. Linux free (AppImage). No account, no subscription. https://writea.com</Program_Description_450>
+ <Program_Description_80>Vector + layout + writing in one native app</Program_Description_80>
+ </Program_Info>
+ <Web_Info>
+ <Application_URLs>
+ <Application_Info_URL>https://writea.com</Application_Info_URL>
+ <Application_Order_URL>https://apps.apple.com/app/id980892066</Application_Order_URL>
+ <Application_Screenshot_URL>https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/74/ec/5474ec94-337f-2be5-d9a7-b1526c8fe0cd/01-write.png/800x500bb.jpg</Application_Screenshot_URL>
+ <Application_Icon_URL>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/5f/3f/b65f3fd3-0759-cb7c-e491-b609ab41a5c5/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png</Application_Icon_URL>
+ <Application_XML_File_URL>https://raw.githubusercontent.com/GarAlex/writea/main/writea.pad.xml</Application_XML_File_URL>
+ </Application_URLs>
+ <Download_URLs>
+ <Primary_Download_URL>https://storage.googleapis.com/writea-downloads/WriTea-x86_64.AppImage</Primary_Download_URL>
+ <Secondary_Download_URL>https://apps.microsoft.com/detail/9p18dgsdvqcr</Secondary_Download_URL>
+ <Additional_Download_URL_1>https://apps.apple.com/app/id980892066</Additional_Download_URL_1>
+ <Additional_Download_URL_2>https://storage.googleapis.com/writea-downloads/WriTea-aarch64.AppImage</Additional_Download_URL_2>
+ <Additional_Download_URL_3>https://writea.com/writea/download</Additional_Download_URL_3>
+ </Download_URLs>
+ </Web_Info>
+ <Permissions>
+ <Distribution_Permissions>The distribution permissions for this PAD file are granted to Softpedia, AppImageHub, and other software directories for listing WriteA with store and Linux AppImage download links.</Distribution_Permissions>
+ <EULA>See App Store / Microsoft Store listing terms. Linux AppImage is free. Product site: https://writea.com</EULA>
+ </Permissions>
 </XML_DIZ_INFO>
