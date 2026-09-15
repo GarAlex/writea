@@ -28,9 +28,11 @@ No subscription. Documents are files on your machine — no account, no cloud lo
 
 ## Directory / PAD
 
-Software directories can ingest this PAD 4.0 file:
+Software directories can ingest this PAD 4.0 file (Linux AppImage download URLs included):
 
 `https://raw.githubusercontent.com/GarAlex/writea/main/writea.pad.xml`
+
+Free Linux builds: [writea.com/writea/download](https://writea.com/writea/download) (AppImage + tar.gz; AppImage filename still `WriTea-*.AppImage` legacy).
 
 ## Not Write.as
 
